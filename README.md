@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sudipt Santra
+- 👀 I’m interested in learning and experiencing new things.
+- 🌱 I’m currently learning programming languages like javascript, c++, python, etc..
+- 💞️ I’m looking to collaborate on simple programs as a beginner.
+- ⚡ Fun fact: ...

@@ -1,4 +1,4 @@
-👋 Hello, I'm Sudipta Santra! 
+👋 Hello, I'm Sudipt Santra! 
 Welcome to my GitHub! I'm a passionate developer excited about coding, learning new technologies, and building cool projects. Here's a little about me and what you'll find in my repos.
 
 🚀 About Me 

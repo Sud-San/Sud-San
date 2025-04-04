@@ -3,7 +3,7 @@ Welcome to my GitHub! I'm a passionate developer excited about coding, learning 
 
 🚀 About Me 
 🌱 I’m currently learning: Java, Python, DBMS, JavaScript, PHP, and many more...
-👨‍💻 I’m currently working on: Bank Management System, Movie Streaming platform
+👨‍💻 I’m currently working on: Bank Management System, Video Streaming Platform
 🎯 Goal for 2025:  PHP, Jquery, and To Develop a Net Banking Project
 💬 Ask me about: C, C++, Python, DBMS
 ⚡ Fun fact: I believe in trying all the things. Even though I have no experience.
